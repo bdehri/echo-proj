@@ -1,0 +1,2 @@
+This project is depended on beast and boost libraries for c++
+and event machine web socket gem for ruby.
